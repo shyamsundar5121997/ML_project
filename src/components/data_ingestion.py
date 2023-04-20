@@ -1,7 +1,7 @@
 import os # data ingestion use the reading dataset & os use the create a path , join path.
 import sys # sys use for exception.
 from src.logger import logging # logging is module which help us to track & record the log informations.
-from src.exception import CustomException #
+from src.exception import CustomException # 
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass

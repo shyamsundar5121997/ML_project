@@ -1,0 +1,3 @@
+[ 2023-04-20 12:26:08,933 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-04-20 12:26:08,941 ] 224 werkzeug - INFO -  * Debugger PIN: 880-141-501
+[ 2023-04-20 12:43:20,910 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Diamonds\\app.py', reloading
